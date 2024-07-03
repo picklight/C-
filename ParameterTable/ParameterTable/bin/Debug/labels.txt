@@ -1,0 +1,13 @@
+labelZOLLERmeasuringheight=ZOLLER测量高度:
+labelTriplebackAngleGASH=端刃三后GASH:
+labelTooldiameter=刀具直径:
+labelPCDGrooveLength=PCD加工槽长:
+labelHelixAngle=螺旋角:
+labelBladeNumber=刃数:
+labelEndBladeandBackCorner=端刃一后:
+labelEndBladeTwoBackCorners=端刃二后:
+labelEndFaceOnePostXAxisOffset=端面一后X轴偏移:
+labelEndFaceTwoAfterXaxisOffset=端面二后X轴偏移:
+labelDepthOfPlaneBackClearance=平面背隙深:
+labelNumberOfPlaneBackspaces=平面背隙数量:
+labelPlaneBackspaceSpacingAngle=平面背隙间距角:

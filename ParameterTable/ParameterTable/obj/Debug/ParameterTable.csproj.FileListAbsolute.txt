@@ -1,0 +1,15 @@
+D:\Winform\ParameterTable\ParameterTable\bin\Debug\ParameterTable.exe.config
+D:\Winform\ParameterTable\ParameterTable\bin\Debug\ParameterTable.exe
+D:\Winform\ParameterTable\ParameterTable\bin\Debug\ParameterTable.pdb
+D:\Winform\ParameterTable\ParameterTable\bin\Debug\Newtonsoft.Json.dll
+D:\Winform\ParameterTable\ParameterTable\bin\Debug\Newtonsoft.Json.xml
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.csproj.AssemblyReference.cache
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.ParameterForm.resources
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.Properties.Resources.resources
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.csproj.GenerateResource.cache
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.csproj.CoreCompileInputs.cache
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.csproj.CopyComplete
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.exe
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.pdb
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.ParamPage1.resources
+D:\Winform\ParameterTable\ParameterTable\obj\Debug\ParameterTable.ParamPage2.resources
